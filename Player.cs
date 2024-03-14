@@ -47,7 +47,5 @@ namespace andar_e_pular_console
                 }
             }
         }
-
-
     }
 }
