@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("andar-e-pular-console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+766c385d27b1cdeed6d517b7ead20d445a30e2cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bfa233cdc2aba44803ded42e79e61dbdfecfee4")]
 [assembly: System.Reflection.AssemblyProductAttribute("andar-e-pular-console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("andar-e-pular-console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

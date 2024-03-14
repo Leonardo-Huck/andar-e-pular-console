@@ -1,0 +1,15 @@
+C:\dev\andar-e-pular-console\andar-e-pular-console\bin\Debug\net8.0\andar-e-pular-console.exe
+C:\dev\andar-e-pular-console\andar-e-pular-console\bin\Debug\net8.0\andar-e-pular-console.deps.json
+C:\dev\andar-e-pular-console\andar-e-pular-console\bin\Debug\net8.0\andar-e-pular-console.runtimeconfig.json
+C:\dev\andar-e-pular-console\andar-e-pular-console\bin\Debug\net8.0\andar-e-pular-console.dll
+C:\dev\andar-e-pular-console\andar-e-pular-console\bin\Debug\net8.0\andar-e-pular-console.pdb
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\andar-e-pular-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\andar-e-pular-console.AssemblyInfoInputs.cache
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\andar-e-pular-console.AssemblyInfo.cs
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\andar-e-pular-console.csproj.CoreCompileInputs.cache
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\andar-e-pular-console.sourcelink.json
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\andar-e-pular-console.dll
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\refint\andar-e-pular-console.dll
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\andar-e-pular-console.pdb
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\andar-e-pular-console.genruntimeconfig.cache
+C:\dev\andar-e-pular-console\andar-e-pular-console\obj\Debug\net8.0\ref\andar-e-pular-console.dll

@@ -28,7 +28,7 @@ namespace andar_e_pular_console
             Console.Beep(234, 100);
         }
 
-        public void anda(Boolean direcao, byte limite)
+        public void Anda(Boolean direcao, byte limite)
         {
             if (direcao)
             {
